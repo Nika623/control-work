@@ -26,3 +26,4 @@ void ConArray(string[] array)
     }
     Console.WriteLine();
 }
+CharArray(array);
